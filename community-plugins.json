@@ -1,5 +1,12 @@
 [
   {
+  "id": "zeddal",
+  "name": "Zeddal",
+  "author": "Jason Hutchcraft",
+  "description": "AI-powered voice notes with 100+ language support, automatic transcription, intelligent context linking, and RAG-enhanced refinement",
+  "repo": "jashutch/zeddal"
+  },
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
